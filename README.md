@@ -10,9 +10,8 @@
 <h3 align="center">🔍 Currently seeking a 2nd-year computer engineering internship!</h3>
 
 <h3 font-size="20" align="center">Passionate by IT</h3>
-<blockquote>
-  <p align="center">💬 <i>"Talk is cheap, show me the code"</i> - <b>Linus Torvalds</b></p>
-</blockquote>
+  
+#### <p align="center">💬 <i>"Talk is cheap, show me the code"</i> - <b>Linus Torvalds</b></p>
 
 
 <img align='right' style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
