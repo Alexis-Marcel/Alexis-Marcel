@@ -1,5 +1,5 @@
 <h1 align="center">
-  Alexis MARCEL: Digital Enthusiast <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f680.gif" width="30px" height="30px">
+  Alexis MARCEL: Digital Enthusiast 🚀
 </h1>
 
 <p align="center">
