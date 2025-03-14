@@ -18,8 +18,6 @@
 
 - 📚 I'm a student engineer at [**TELECOM NANCY**](https://telecomnancy.univ-lorraine.fr/)
 
-- 🌱 I’m currently learning <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&style=flat" style="vertical-align: middle;"/> and <img alt="Flutter" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" style="vertical-align: middle;"/>.
-
 - 📮 Contact me at [**alexis.marcel@telecomnancy.eu**](mailto:alexis.marcel@telecomnancy.eu)
   
 - 📫 How to reach me: 
