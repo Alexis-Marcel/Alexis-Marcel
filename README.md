@@ -7,7 +7,7 @@
 </p>
 
 
-<h3 align="center">🔍 Currently seeking a 2nd-year computer engineering internship!</h3>
+<h3 align="center"></h3>
 
 <h3 font-size="20" align="center">Passionate by IT</h3>
   
